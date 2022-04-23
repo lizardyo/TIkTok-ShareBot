@@ -10,7 +10,7 @@ discord.gg/504rp for the best soon to open fivem server
   lizard#1000   lizard#1000
   lizard#1000   lizard#1000
 
-OPEN install.bat then open the .exe press enter when it says "Presser entrer pour acceder au logiciel"
+OPEN install.bat then open the .exe then wait for it to load and say :"Presser entrer pour acceder au logiciel" then when it says that press enter .
 then when it says "Video Lien >" paste ur tiktok video link.
 then when it says "(0=Continuer) >" type "0" 
 then when it says "Combien de Partages veux tu par secondes ? >" type how every many shares per sec u want ex: 100
